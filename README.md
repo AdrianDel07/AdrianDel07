@@ -1,6 +1,7 @@
 <h1 align="center">Hola 👋, I'm Adrian De La Asuncion</h1>
 <h3 align="center">A passionate fullstack developer from Colombia</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AdrianDel07" alt="AdrianDel07" /> </p>
 - 🌱 I’m currently learning **Python, Holberton School**
 
 - 💬 Ask me about **C or Python**
