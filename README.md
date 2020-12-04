@@ -2,9 +2,10 @@
 <h3 align="center">A passionate fullstack developer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AdrianDel07" alt="AdrianDel07" /> </p>
-- 🌱 I'm currently learning **Data science**
 
-- 💬 Ask me about **C or Python**
+- 🌱 I'm currently Open to Work
+
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **Twittter: @AdrianDeLaAsun1**
 
