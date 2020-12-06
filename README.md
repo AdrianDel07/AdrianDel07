@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AdrianDel07&label=Profile%20views&color=0e75b6&style=flat" alt="AdrianDel07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AdrianDel07" alt="AdrianDel07" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/AdrianDeLaAsun1" target="blank"><img src="https://img.shields.io/twitter/follow/AdrianDeLaAsun1?logo=twitter&style=for-the-badge" alt="AdrianDeLaAsun1" /></a> </p>
 
 - 🔭 I’m currently working on [RecipEat](www.recipeat.social)
