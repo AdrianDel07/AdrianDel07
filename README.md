@@ -31,5 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AdrianDel07&show_icons=true&locale=en" alt="AdrianDel07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdrianDel07&" alt="AdrianDel07" /></p>
 
